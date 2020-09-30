@@ -1,0 +1,13 @@
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\bin\Debug\CpuRam.exe.config
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\bin\Debug\CpuRam.exe
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\bin\Debug\CpuRam.pdb
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\bin\Debug\CircularProgressBar.dll
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\bin\Debug\WinFormAnimation.dll
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\bin\Debug\CircularProgressBar.xml
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\obj\Debug\CpuRam.Form1.resources
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\obj\Debug\CpuRam.Properties.Resources.resources
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\obj\Debug\CpuRam.csproj.GenerateResource.cache
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\obj\Debug\CpuRam.csproj.CopyComplete
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\obj\Debug\CpuRam.exe
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\obj\Debug\CpuRam.pdb
+C:\Users\Dev\Desktop\Work\CpuRam\CpuRam\obj\Debug\CpuRam.csprojAssemblyReference.cache
